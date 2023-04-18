@@ -1,2 +1,2 @@
 # CRISPR_project
-Bioinformatically identifying viral invaders from genomically-encoded CRISPR sequences
+Identification of viral invaders using CRISPR-spacer homology searches
